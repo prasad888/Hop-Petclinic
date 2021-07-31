@@ -284,7 +284,7 @@
     <repository>
       <id>petclinic1</id>
       <name>petclinic1</name>
-      <url>http://54.241.187.126:8081/repository/petclinic</url>
+      <url>http://54.241.187.126:8081/repository/petclinic1/</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
